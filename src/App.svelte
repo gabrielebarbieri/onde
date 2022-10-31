@@ -5,7 +5,7 @@
 
 <main>
   <div>
-    <a href="https://vitejs.dev" target="_blank"> 
+    <a href="https://github.com/gabrielebarbieri/onde" target="_blank"> 
       <img src="/favicon.ico" class="logo" alt="Onde Logo" />
     </a>
     <a href="https://svelte.dev" target="_blank"> 
