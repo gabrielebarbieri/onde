@@ -1,3 +1,12 @@
+# Onde 
+
+Browser based live coding environnement
+
+### Onde ideas 
+
+- use yaml as source language
+- browser based, uses codemirror
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
